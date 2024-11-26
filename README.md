@@ -5,6 +5,7 @@ TLDR;
 - Read the [disclaimer](https://github.com/arvigeus/AZ-204#disclaimer)
 - Go through [Topics](/Topics/) (check [Study Plan](./Study%20Plan.md) for a suggested order)
 - Practice with [quiz app](https://az-204.vercel.app/) ([by topic](https://az-204.vercel.app/topics))
+- Changed origin
 
 ## [Study guide for Exam AZ-204: Developing Solutions for Microsoft Azure](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-204#skills-measured-prior-to-august-21-2023)
 
